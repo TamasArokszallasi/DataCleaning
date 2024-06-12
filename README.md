@@ -8,5 +8,4 @@ There exist an excel file which is structured like this:
 
 |subject|
 |-------|
-|Example type
-<br>country:|
+|Example type <br>country:|
