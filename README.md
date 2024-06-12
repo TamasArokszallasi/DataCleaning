@@ -15,3 +15,7 @@ Well, i wanted to have each of these data in separate column like this:
 |Name|Type|Country|Name|XiD|XLiD|E-mail|UserID|
 |---|---|---|---|---|---|---|---|
 |Example name|Type| UK| Big Dean| 1234| 4321| BigD@trialmail.com | BigD66|
+
+
+How would you do it in Excel? we can not find a proper way to it, so i turned to python and did the following:
+I looked for the data between Name and Type, Country and Type and so, and the data i get from that i put that into a table, and then created an excel file which sorts all below each.
