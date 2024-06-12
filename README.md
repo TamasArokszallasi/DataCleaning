@@ -13,4 +13,5 @@ There exist an excel file where there is only one column which contain cells bel
 Well, i wanted to have each of these data in separate column like this:
 
 |Name|Type|Country|Name|XiD|XLiD|E-mail|UserID|
+|----------------------------------------------|
 |Example name|Type| UK| Big Dean| 1234| 4321| BigD@trialmail.com | BigD66|
