@@ -1,6 +1,6 @@
 # DataCleaning
 
-The goal of this project was to create an automatic data cleaning in an excel file, which can not be done neither manually nor by the VBA.
+The goal of this project was to create an automatic data cleaning in an excel file, which can not be done neither manually nor by the VBA. **The exact variable names were modified in the public code to avoid any kind of fraud.**
 
 The problem was the following:
 
