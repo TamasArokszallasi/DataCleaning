@@ -12,15 +12,15 @@ There exist an excel file where there is only one column which contain cells bel
 
 Well, i wanted to have each of these data in separate column like this:
 
-|Type|Country|Name|XiD|XLiD|E-mail|UserID|
-|---|---|---|---|---|---|---|
-|Type| UK| Big Dean| 1234| 4321| BigD@trialmail.com | BigD66|
+|Type|Country|Name|XiD|E-mail|
+|---|---|---|---|---|
+|Type| UK| Big Dean| 1234| BigD@trialmail.com |
 
 How would you do it in Excel? we can not find a proper way to it, so i turned to python and did the following:
 
 I looked for the data between Name and Type, Country and Type and so, and the data i get from that i put that into a table, and then created an excel file which sorts all below each in the proper columns.
 Now it's time for you to check the code.
-Unfortunately, this project ended like this, mainly  beacuse it was not necessary to use python for this task, the other hand the place where they asked this report, they don't gave clear permission for python. Furthermore, i was not having more time to develope further.
+Unfortunately, this project ended like this, mainly  beacuse it was not necessary to use python for this task. Furthermore, i was not having more time to develope further.
 
 What sort of problems do i face with the code, which if this would continue i would definitely fix it!
 
