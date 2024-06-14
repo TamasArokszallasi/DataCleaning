@@ -9,7 +9,7 @@ types = []
 countries = []
 names = []
 emails = []
-xidss = []
+xids = []
 
 # Define the keywords to search for
 keywords = ["TYPE", "Country:", "NAME:", "E-MAIL:", "XiD:"]
